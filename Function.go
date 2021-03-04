@@ -35,7 +35,7 @@ func add(x, y int) (r int) {
 }
 */
 
-/*
+
 func add(x, y int) (r int) {
 
 	r = x+y
@@ -43,7 +43,7 @@ func add(x, y int) (r int) {
 	return 
 
 }
-*/
+
 
 
 func rectangle(l int, b int) (area int, parameter int){
